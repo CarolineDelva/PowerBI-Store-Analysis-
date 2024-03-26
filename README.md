@@ -1,3 +1,3 @@
 # PowerBI-Store-Analysis-
 
-![PowerBI Visuals.png](PowerBI Visuals.png)
+![PowerBIVisuals.png](PowerBIVisuals.png)
